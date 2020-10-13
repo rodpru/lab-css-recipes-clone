@@ -1,0 +1,11 @@
+h1 {
+    width: 600px;
+    height: 400px;
+    background: url(/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+li {
+    list-style: circle;
+}
